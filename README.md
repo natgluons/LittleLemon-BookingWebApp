@@ -20,3 +20,8 @@ To explore the Little Lemon booking website:
 
 ## Note
 This project serves as a practical demonstration of full-stack development skills acquired during "The Full Stack" course. It showcases the implementation of a booking application with Django and API integration.
+
+![image](https://github.com/user-attachments/assets/2f92ed8b-2827-47b9-ae5a-0ab8c69a6524)
+
+![image](https://github.com/user-attachments/assets/ffd6c400-5179-4b7a-8cff-f9ba4a004565)
+
